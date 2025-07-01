@@ -30,11 +30,6 @@ Show Image
 مفتاح OpenAI API (احصل عليه من هنا)
 
 خطوات التثبيت
-
-تحميل الملفات
-bashgit clone https://github.com/your-username/youtube-summarizer-extension.git
-cd youtube-summarizer-extension
-
 تفعيل وضع المطور في كروم
 
 افتح Chrome واذهب إلى chrome://extensions/
